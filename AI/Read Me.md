@@ -23,3 +23,5 @@ Functions I have added:
     1. Anna can play music for you (by default I added a few songs with links directly linked to YouTube)
 1. "Goodbye, Adios, Ciao"
     1. This can exit the programme.
+
+There are other hidden features as well
