@@ -2,8 +2,8 @@ Here I show the python script for Anna (the AI I built with *Google Text-To-Spee
 Most of the lines in Anna are copied from various sources, but they are for Windows. I have modified in a simple and direct way on Mac.
 
 Here are some sources for references:
-* https://www.youtube.com/watch?v=rU_ppVsyJu8 
-* https://www.youtube.com/watch?v=5mu6qlFY3x0&t=264s
+* https://www.youtube.com/watch?v=rU_ppVsyJu8 (A very good, detailed video for using alternative tts recognition)
+* https://www.youtube.com/watch?v=5mu6qlFY3x0&t=264s (Another great example for creating AI)
 * https://pythonspot.com/personal-assistant-jarvis-in-python/ (A great starting point if you are using Windows)
 
 Here are some conditions before using the py script:
@@ -25,3 +25,6 @@ Functions I have added:
     1. This can exit the programme.
 
 There are other hidden features as well
+1. "Happy Birthday"
+2. "Happy Cinco de Mayo"
+3. "Random weekday quotes"
