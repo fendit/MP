@@ -32,3 +32,4 @@ There are other hidden features as well
 1. "Happy Birthday"
 2. "Happy Cinco de Mayo"
 3. "Random weekday quotes"
+4. Show a list of previous commands (if any) when executing the current command
