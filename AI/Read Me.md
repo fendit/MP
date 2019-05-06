@@ -9,3 +9,20 @@ Here are some sources for references:
 Here are some conditions before using the py script:
 1. It is only for Mac users
 1. Make sure your mac connects to the Internet
+1. Input your name and your birthday after executing the script (You can set user's name and birthday by default, which are "user" and "birthday" respectively
+1. Change the language if you want (please have a look at this: https://github.com/pndurette/gTTS/issues/31)
+
+Functions I have added:
+1. "How are you"
+  1. Anna can respond to "how are you" question. She will ask the user the same question and wait for user's reply.
+1. "What time is it"
+  1. Anna can provide the current date and time.
+  
+1. "Open (Application)"
+  1. Anna can open applications installed on your Mac.
+
+1. "Play music"
+  1. Anna can play music for you (by default I added a few songs with links directly linked to YouTube)
+
+1. "Goodbye, Adios, Ciao"
+  1. This can exit the programme.
