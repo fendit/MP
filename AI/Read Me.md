@@ -23,6 +23,8 @@ Functions I have added:
     1. Anna can open applications installed on your Mac.
 1. "Play music"
     1. Anna can play music for you (by default I added a few songs with links directly linked to YouTube)
+1. "Where is"
+    1. Anna can search for places.
 1. "Goodbye, Adios, Ciao"
     1. This can exit the programme.
 
