@@ -17,12 +17,9 @@ Functions I have added:
   * Anna can respond to "how are you" question. She will ask the user the same question and wait for user's reply.
 1. "What time is it"
   * Anna can provide the current date and time.
-  
 1. "Open (Application)"
   * Anna can open applications installed on your Mac.
-
 1. "Play music"
   * Anna can play music for you (by default I added a few songs with links directly linked to YouTube)
-
 1. "Goodbye, Adios, Ciao"
   * This can exit the programme.
