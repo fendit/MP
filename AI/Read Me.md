@@ -1,4 +1,4 @@
-<h2> Anna - A prototype AI with Google tts recognition for Mac
+<h2> Anna - A prototype AI with Google tts recognition for Mac <h2>
 
 Here I show the python script for Anna (the AI I built with *Google Text-To-Speech Recognition*)
 Most of the lines in Anna are copied from various sources, but they are for Windows. I have modified in a simple and direct way on Mac.
