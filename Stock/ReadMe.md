@@ -1,4 +1,4 @@
-# MP: Stock
+# Stock (Stock Performance)
 
 I was working on making a stock performance indicator with a candlestick chart and trend as well as a table
 
