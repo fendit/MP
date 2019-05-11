@@ -17,7 +17,7 @@ No worries! The script will, at your service, create an excel workbook for you i
 1. Donut chart of the monthly expenses record (in terms of Category)
 
 ### Extra features or suggestions
-1. Connecting to google sheets (a way to get around with this is to store "Expenses.xlsx" in the google sync folder in the computer
+1. Connecting to google sheets (a way, I think, to get around with this is to store "Expenses.xlsx" in the google sync folder in the computer. Any changes in that workbook will be synchronised automatically)
 1. Line plot of plotting the expenses across each month in terms of each category
 1. Setting up limit (or budget) in each category
 1. Warning message if the limit (budget) in each category is exceeded
