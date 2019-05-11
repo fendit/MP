@@ -27,7 +27,7 @@ No worries! The script will, at your service, create an excel workbook for you i
 This script is to show that:
 1. It is quite straightforward to create your own expenses tracker
 1. It is a good way to understand your previous consumption pattern
-1. It is a cornerstone of planning how much to spend or save in the following months
+1. It is a cornerstone of planning how much to spend or save in upcoming months
 
 ### References
 I am new to Python and expenses recording, so I looked for some suggestions from following websites:
