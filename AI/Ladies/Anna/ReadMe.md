@@ -18,7 +18,7 @@ This script is to show that:
 1. Provide search function (directly linked to Google search)
 1. Provide random daily quotes
 
-### prerequisite
+### Pre-requisite
 1. It is only for **Mac** users
 1. Make sure your mac connects to the Internet
 1. Input your name and your birthday after executing the script (You can set user's name and birthday by default, which are "user" and "birthday" respectively)
