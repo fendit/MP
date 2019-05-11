@@ -4,6 +4,19 @@ Hello everyone! This week I decide to create something that is relevant to my da
 
 No worries! The script will, at your service, create an excel workbook for you if it does not exist in your directory.
 
+### Purpose
+This script is to show that:
+1. It is quite straightforward to create your own expenses tracker
+1. It is a good way to understand your previous consumption pattern
+1. It is a cornerstone of planning how much to spend or save in upcoming months
+
+### Objectives
+1. Create a workbook with 12 sheets (each sheet represents a month)
+1. Create a dataframe in Pandas that can store inputs
+1. Export the dataframe to the designated sheet
+1. Allow users to select between options (e.g. select which month to record expenses, which category the expenses belongs to)
+1. Generate a donut chart of expenses distribution in terms of category
+
 ### Inputs
 1. No of items of expenses for recording
 1. Date of expenses
@@ -15,6 +28,7 @@ No worries! The script will, at your service, create an excel workbook for you i
 ### Outputs
 1. Pandas' dataframe of the monthly expenses record
 1. Donut chart of the monthly expenses record (in terms of Category)
+1. Workbook ("Expenses.xlsx")
 
 ### Extra features or suggestions
 1. Connecting to google sheets (a way, I think, to get around with this is to store "Expenses.xlsx" in the google sync folder in the computer. Any changes in that workbook will be synchronised automatically)
@@ -23,12 +37,6 @@ No worries! The script will, at your service, create an excel workbook for you i
 1. Warning message if the limit (budget) in each category is exceeded
 1. Donut chart in terms of months (subplots)
 1. GUI of Expenses Tracker with PyQt, tkinter etc
-
-### Intuition
-This script is to show that:
-1. It is quite straightforward to create your own expenses tracker
-1. It is a good way to understand your previous consumption pattern
-1. It is a cornerstone of planning how much to spend or save in upcoming months
 
 ### References
 I am new to Python and expenses recording, so I looked for some suggestions from following websites:
