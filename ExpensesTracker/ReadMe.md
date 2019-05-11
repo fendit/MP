@@ -19,6 +19,7 @@ Hello everyone! This week I decide to create something that is relevant to my da
 1. Setting up limit (or budget) in each category
 1. Warning message if the limit (budget) in each category exceeds
 1. Donut chart in terms of months (subplots)
+1. GUI of Expenses Tracker with PyQt, tkinter etc
 
 ### Intuition
 This script is to show that:
