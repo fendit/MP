@@ -1,6 +1,6 @@
-# Anna - A prototype AI with Google tts recognition for Mac 
+# Anna
 
-Hello everyone! This week I present you Anna, the AI I built with *Google Text-To-Speech Recognition*. She is based on Python and no worries! She is quite user-friendly! 
+Hello everyone! This week I present you Anna, a prototype AI I built with *Google Text-To-Speech Recognition* for Mac. She is based on Python and no worries! She is quite user-friendly! 
 
 ### Purposes
 This script is to show that:
