@@ -4,7 +4,7 @@ Hello everyone! This week I decide to create something that is relevant to my da
 
 No worries! The script will, at your service, create an excel workbook for you if it does not exist in your directory.
 
-### Purpose
+### Purpose(s)
 This script is to show that:
 1. It is quite straightforward to create your own expenses tracker
 1. It is a good way to understand your previous consumption pattern
