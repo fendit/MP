@@ -1,5 +1,5 @@
 # Range Frequency Theory (RFT)
-This is from one of the assignments I worked before.However, this has been modified with Shiny. 
+This is from one of the assignments I worked before. However, this has been modified with Shiny. 
 
 ### Features
 1. Select one of the price distributions (unimodal, bimodal, positively or negatively skewed).
