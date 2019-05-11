@@ -25,3 +25,8 @@ This script is to show that:
 1. It is quite straightforward to create your own expenses tracker
 1. It is a good way to understand your previous consumption pattern
 1. It is a cornerstone of planning how much to spend or save in the following months
+
+### References
+I am new to Python and expenses recording, so I looked for some suggestions from following websites:
+1. https://stackoverflow.com/questions/20219254/how-to-write-to-an-existing-excel-file-without-overwriting-data-using-pandas
+1. https://localfirstbank.com/content/personal-budget-categories/
