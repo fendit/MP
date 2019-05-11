@@ -19,7 +19,7 @@ No worries! The script will create an excel workbook for you if it does not exis
 ### Extra features or suggestions
 1. Line plot of plotting the expenses across each month in terms of each category
 1. Setting up limit (or budget) in each category
-1. Warning message if the limit (budget) in each category exceeds
+1. Warning message if the limit (budget) in each category is exceeded
 1. Donut chart in terms of months (subplots)
 1. GUI of Expenses Tracker with PyQt, tkinter etc
 
