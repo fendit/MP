@@ -31,5 +31,6 @@ This script is to show that:
 
 ### References
 I am new to Python and expenses recording, so I looked for some suggestions from following websites:
+1. https://stackoverflow.com/questions/34927479/command-line-show-list-of-options-and-let-user-choose
 1. https://stackoverflow.com/questions/20219254/how-to-write-to-an-existing-excel-file-without-overwriting-data-using-pandas
 1. https://localfirstbank.com/content/personal-budget-categories/
