@@ -1,6 +1,8 @@
 # Expenses Tracker in Python
 
-Hello everyone! This week I decide to create something that is relevant to my daily life -- Expenses tracker. It is a py.script to read and write expenses record in an excel file called "Expenses.xlsx". No worries! The script will create an excel workbook for you if it does not exist in your directory.
+Hello everyone! This week I decide to create something that is relevant to my daily life -- Expenses Tracker. It is a py.script can (i) read and write expenses record in an excel file called "Expenses.xlsx", (ii) show the expenses distribution in a donut chart. 
+
+No worries! The script will create an excel workbook for you if it does not exist in your directory.
 
 ### Inputs
 1. No of items of expenses for recording
