@@ -1,4 +1,4 @@
-# Expenses Tracker in Python
+# (Monthly) Expenses Tracker in Python
 
 Hello everyone! This week I decide to create something that is relevant to my daily life -- Expenses Tracker. It is a py.script can (i) read and write expenses record in an excel file called "Expenses.xlsx", (ii) show the expenses distribution in a donut chart. 
 
