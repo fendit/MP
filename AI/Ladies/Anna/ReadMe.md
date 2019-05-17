@@ -2,6 +2,13 @@
 
 Hello everyone! This week I present you Anna, a prototype AI I built with *Google Text-To-Speech Recognition* for Mac. She is based on Python and no worries! She is quite user-friendly! 
 
+* [Purposes](https://github.com/fendit/MP/tree/master/AI/Ladies/Anna#purposes)
+* [Objectives](https://github.com/fendit/MP/tree/master/AI/Ladies/Anna#objectives)
+* [Pre-requisite](https://github.com/fendit/MP/tree/master/AI/Ladies/Anna#pre-requisite)
+* [Features](https://github.com/fendit/MP/tree/master/AI/Ladies/Anna#features)
+* [Suggestions](https://github.com/fendit/MP/tree/master/AI/Ladies/Anna#suggestions)
+* [References](https://github.com/fendit/MP/tree/master/AI/Ladies/Anna#references)
+
 ### Purposes
 This script is to show that:
 1. It is quite straightforward to create your own personal assistant
