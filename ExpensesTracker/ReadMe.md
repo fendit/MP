@@ -4,12 +4,12 @@ Hello everyone! This week I decide to create something that is relevant to my da
 
 No worries! The script will, at your service, create an excel workbook for you if it does not exist in your directory.
 
-[Purposes](https://github.com/fendit/MP/tree/master/ExpensesTracker#purposes)
-[Objectives](https://github.com/fendit/MP/tree/master/ExpensesTracker#objectives)
-[Inputs](https://github.com/fendit/MP/tree/master/ExpensesTracker#inputs)
-[Outputs](https://github.com/fendit/MP/tree/master/ExpensesTracker#outputs)
-[Extra features or suggestions](https://github.com/fendit/MP/tree/master/ExpensesTracker#extra-features-or-suggestions)
-[References](https://github.com/fendit/MP/tree/master/ExpensesTracker#references)
+* [Purposes](https://github.com/fendit/MP/tree/master/ExpensesTracker#purposes)
+* [Objectives](https://github.com/fendit/MP/tree/master/ExpensesTracker#objectives)
+* [Inputs](https://github.com/fendit/MP/tree/master/ExpensesTracker#inputs)
+* [Outputs](https://github.com/fendit/MP/tree/master/ExpensesTracker#outputs)
+* [Extra features or suggestions](https://github.com/fendit/MP/tree/master/ExpensesTracker#extra-features-or-suggestions)
+* [References](https://github.com/fendit/MP/tree/master/ExpensesTracker#references)
 
 ### Purposes
 This script is to show that:
