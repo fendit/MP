@@ -1,4 +1,4 @@
-# (Monthly) Expenses Tracker in Python
+# (Monthly) Expenses Tracker in Python and R
 
 Hello everyone! This week I decide to create something that is relevant to my daily life -- Expenses Tracker. It is a py.script can (i) read and write expenses record in an excel file called "Expenses.xlsx", (ii) show the expenses distribution in a donut chart. 
 
@@ -18,11 +18,11 @@ This script is to show that:
 1. It is a cornerstone of planning how much to spend or save in upcoming months
 
 ### Objectives
-1. Create a workbook with 12 sheets (each sheet represents a month)
+1. Create a workbook with 12 sheets (each sheet represents a month) (Python)
 1. Create a dataframe in Pandas that can store inputs
-1. Export the dataframe to the designated sheet
-1. Allow users to select between options (e.g. select which month to record expenses, which category the expenses belongs to)
-1. Generate a donut chart of expenses distribution in terms of category
+1. Export the dataframe to the designated sheet (Python)
+1. Allow users to select between options (e.g. select which month to record expenses, which category the expenses belongs to) (Python)
+1. Generate a donut chart of expenses distribution in terms of category (Python)
 
 ### Inputs
 1. No of items of expenses for recording
@@ -33,9 +33,9 @@ This script is to show that:
 1. Category of expenses (can be customised under the list called "categories" inside the script)
 
 ### Outputs
-1. Pandas' dataframe of the monthly expenses record
-1. Donut chart of the monthly expenses record (in terms of Category)
-1. Workbook ("Expenses.xlsx")
+1. Pandas' dataframe of the monthly expenses record (Python)
+1. Donut chart of the monthly expenses record (in terms of Category)(Python)
+1. Workbook ("Expenses.xlsx")(Python)
 
 ### Extra features or suggestions
 1. Connecting to google sheets (a way, I think, to get around with this is to store "Expenses.xlsx" in the google sync folder in the computer. Any changes in that workbook will be synchronised automatically)
