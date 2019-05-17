@@ -4,6 +4,9 @@ Hello everyone! This week I decide to create something that is relevant to my da
 
 No worries! The script will, at your service, create an excel workbook for you if it does not exist in your directory.
 
+[Purposes](https://github.com/fendit/MP/tree/master/ExpensesTracker#purposes)
+
+
 ### Purposes
 This script is to show that:
 1. It is quite straightforward to create your own expenses tracker
