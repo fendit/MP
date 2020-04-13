@@ -48,4 +48,4 @@ Most of the lines are copied from various sources. Here are some useful referenc
 1. https://rstudio.github.io/leaflet/ (Leaflet: an breath-taking R package for showing geospatial data which is one of the most popular open-source JavaScript libraries for interactive maps. It's straightforward and user-friendly. Definitely recommend)
 1. https://leaflet-extras.github.io/leaflet-providers/preview/ (leaflet. extras: 164 layers for the map. Which one is your favourite?)
 1. https://plotly.com/r/ (Plotly: an R package for creating interactive plots. Never bored with it since there are unlimited ways of showing the same set of the data; the sky is the limit)
-
+1. Data sources are [Public Health England](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public), [NHS England](https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-daily-deaths/), [HSC Public Health Agency](https://www.publichealth.hscni.net), [Scottish Government](https://www.gov.scot/coronavirus-covid-19/) and [Public Health Wales](https://covid19-phwstatement.nhs.wales)
