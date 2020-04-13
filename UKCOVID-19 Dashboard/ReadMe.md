@@ -37,7 +37,7 @@ This script is to show that:
 1. Update history
 
 ### Suggestions
-1. smartphone-user-friendly. Perhaps using flexdashboard?
+1. Smartphone-user-friendly. Perhaps using flexdashboard?
 1. News section such as what the recent news about COVID-19 in UK is. Possible adding a page that shows the tweets from public health departments
 1. Timeline section for viewing the timeline of COVID-19, such as when the first patient in UK was found, when the lockdown was implemented, what significant measures the government has made in what time etc
 
