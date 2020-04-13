@@ -37,7 +37,7 @@ These R scripts are to show that:
 1. Update history
 
 ### Suggestions
-1. Smartphone-user-friendly. Perhaps using flexdashboard?
+1. Smartphone-user-friendly. (Perhaps using flexdashboard?)
 1. News section such as what the recent news about COVID-19 in UK is. Possible adding a page that shows the tweets from public health departments
 1. Timeline section for viewing the timeline of COVID-19, such as when the first patient in UK was found, when the lockdown was implemented, what significant measures the government has made in what time etc
 
@@ -47,5 +47,5 @@ Most of the lines are copied from various sources. Here are some useful referenc
 1. https://shiny.rstudio.com/gallery/ (Shiny: an excellent overview for beginners to explore the unlimited potentials of creating website for data visualisation and interaction)
 1. https://rstudio.github.io/leaflet/ (Leaflet: an breath-taking R package for showing geospatial data which is one of the most popular open-source JavaScript libraries for interactive maps. It's straightforward and user-friendly. Definitely recommend)
 1. https://leaflet-extras.github.io/leaflet-providers/preview/ (leaflet. extras: 164 layers for the map. Which one is your favourite?)
-1. https://plotly.com/r/ (Plotly: a R package for creating interactive plots. Never bored with it since there are unlimited ways of showing the same set of the data; the sky is the limit)
+1. https://plotly.com/r/ (Plotly: a R package for creating interactive plots. Never bored with it since there are unlimited ways of showing the same set of the data; the sky is the limit, though)
 1. Data sources are [Public Health England](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public), [NHS England](https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-daily-deaths/), [HSC Public Health Agency](https://www.publichealth.hscni.net), [Scottish Government](https://www.gov.scot/coronavirus-covid-19/) and [Public Health Wales](https://covid19-phwstatement.nhs.wales)
