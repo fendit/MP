@@ -1,4 +1,4 @@
-UK COVID-19 Dashboard
+# UK COVID-19 Dashboard
 
 Hello everyone! In this mini project I am presenting you a dashboard about current COVID-19 situation in UK with Shiny.
 
