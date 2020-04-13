@@ -11,7 +11,7 @@ Hello everyone! In this mini project I am presenting you an interactive dashboar
 
 ### Purposes
 These R scripts are to show that:
-1. how data visualisation can be done with package such as Shiny, leaflet and plotly
+1. how data visualisation can be done with packages such as Shiny, leaflet and plotly in R
 1. how to set up a webpage with two .R files, namely 'ui.R' and 'server.R'
 
 ### Objectives
