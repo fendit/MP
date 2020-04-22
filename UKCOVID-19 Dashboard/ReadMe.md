@@ -35,7 +35,7 @@ These R scripts are to show that:
 1. Downloadable datatables for replications
 1. Source for the data and resources that are related to COVID-19 in UK
 1. Update history
-1. Search for comparing the daily and total confirmed cases among selected areas
+1. Search for comparing the daily and total confirmed cases among selected areas (in 1.0)
 
 ### Suggestions
 1. ~~Smartphone-user-friendly. (Perhaps using flexdashboard?)~~ (Done in 1.0)
