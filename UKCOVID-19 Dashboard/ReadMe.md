@@ -35,10 +35,11 @@ These R scripts are to show that:
 1. Downloadable datatables for replications
 1. Source for the data and resources that are related to COVID-19 in UK
 1. Update history
+1. Search for comparing the daily and total confirmed cases among selected areas
 
 ### Suggestions
-1. Smartphone-user-friendly. (Perhaps using flexdashboard?)
-1. News section such as what the recent news about COVID-19 in UK is. Possible adding a page that shows the tweets from public health departments
+1. Smartphone-user-friendly. (Perhaps using flexdashboard?) (Done in 1.0)
+1. News section such as what the recent news about COVID-19 in UK is. Possible adding a page that shows the tweets from public health departments (Done in 1.0)
 1. Timeline section for viewing the timeline of COVID-19, such as when the first patient in UK was found, when the lockdown was implemented, what significant measures the government has made in what time etc
 
 ### References
