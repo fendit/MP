@@ -117,7 +117,7 @@ Calculate <- function(Type, Time, Data, Place, Date, FilteredData){
       if (Place == 'UK'){
         Total <- Data$TotalDeaths[which(Data$Date==Date)]
         Diff <- Total - Data$TotalDeaths[which(Data$Date==as.character(Date-1))]
-      }else if (Place %in% c("England", "NI", "Scotland","Wales")){
+      }else if (Place %in% c("England", "Northern Ireland", "Scotland","Wales")){
         Total <- Data[Place][which(Data$Date==Date),]
         if (as.character(Date)!='2020-03-07'){
           Diff <- Total - Data[as.character(Place)][which(Data$Date==as.character(Date-1)),]
@@ -194,7 +194,7 @@ Trend <- function(Date, Place, ExtData, Type){
       Data <- UKCoV[UKCoV$Countries==Place,]
     }
     
-    if (Place %in% unique(UKCoV$NHSCategory)){
+    if (Place %in% c('East of England', 'London', 'Midlands', 'North East and Yorkshire', 'North West', 'South East', 'South West')){
       Data <- UKCoV[UKCoV$NHSCategory==Place,]
     }
     
@@ -217,7 +217,7 @@ Trend <- function(Date, Place, ExtData, Type){
                            'TotalDeaths' = ExtData[Place][which(rownames(ExtData)=='2020-03-07'):which(rownames(ExtData)==as.character(Date)),])
       }
       
-      if (Place %in% unique(UKCoV$NHSCategory)){
+      if (Place %in% c('East of England', 'London', 'Midlands', 'North East and Yorkshire', 'North West', 'South East', 'South West')){
         if(Place == 'East of England'){
           Place <- 'EastOfEngland'
         }
@@ -370,7 +370,7 @@ pDailyTrend <- function(Type, Date, Data, Place){
                        height = 300)
       }
       
-      if (Place %in% unique(Data$NHSCategory)){
+      if (Place %in% c('East of England', 'London', 'Midlands', 'North East and Yorkshire', 'North West', 'South East', 'South West')){
         RawData <- Data[Data$NHSCategory==Place,]
         total <- colSums(RawData[,c(which(colnames(RawData)=='2020-03-07'):which(colnames(RawData)==as.character(Date)))], na.rm = TRUE)
         
@@ -418,7 +418,7 @@ pDailyTrend <- function(Type, Date, Data, Place){
                        height = 300)
       }
 
-      if (Place %in% unique(UKCoV$NHSCategory)){
+      if (Place %in% c('East of England', 'London', 'Midlands', 'North East and Yorkshire', 'North West', 'South East', 'South West')){
         if(Place == 'East of England'){
           Place <- 'EE'
         }
