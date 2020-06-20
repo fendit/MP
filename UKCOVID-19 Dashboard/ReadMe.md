@@ -20,8 +20,7 @@ These R scripts are to show that:
 1. Create a website that allows other users to explore
 
 ### Pre-requisite
-1. Download 'ui.R', 'server.R' and 'log.html'. The last one is simply a log of the update history
-1. Download the related csv file from the website (https://ft3pi.shinyapps.io/covid-19_uk_shiny/)
+1. Download 'ui.R', 'server.R' and 'UKCOVID19-Dataset.xlsx'
 1. Install packages such as 'shiny', 'leaflet', 'leaflet.extras', 'plotly', 'xts', 'tidyr' and 'dplyr'
 1. Create an account on shinyapps.io (https://www.shinyapps.io) if setting up the website in the server
 
